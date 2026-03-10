@@ -166,9 +166,10 @@ def start_lernprogramm():
     
     # Hier werden die Lektionen aufgerufen. 
     # Wenn du eine Aufgabe machst, führe die Datei aus, um zu testen!
-    lektion_1_strings_und_punktnotation()
-    lektion_2_listen_und_indizes()
-    lektion_3_schleifen_und_random()
+    
+    # lektion_1_strings_und_punktnotation()
+    # lektion_2_listen_und_indizes()
+    # lektion_3_schleifen_und_random()
     
     print("\nSuper! Wenn du alle Aufgaben gelöst hast, bist du bereit für Hangman!")
 
